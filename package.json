@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "save":"git add . && git commit -m \"auto save\" && git push",
     "start": "npm run dev",
     "dev": "dumi dev",
     "build": "dumi build",

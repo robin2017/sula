@@ -93,7 +93,7 @@ const actions = [
     },
     props: {
       type: 'primary',
-      children: '批量注册',
+      children: '批量注册888',
     },
     action: [
       {
